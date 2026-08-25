@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://talkingraintut.github.io/posts/bbbf239f.html</loc>
+    
+    <lastmod>2026-08-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://talkingraintut.github.io/about/index.html</loc>
     
     <lastmod>2026-08-25</lastmod>
@@ -46,6 +55,20 @@
   </url>
 
   
+  <url>
+    <loc>https://talkingraintut.github.io/tags/%E7%A4%BA%E4%BE%8B/</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://talkingraintut.github.io/categories/%E6%BC%94%E7%A4%BA/</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
