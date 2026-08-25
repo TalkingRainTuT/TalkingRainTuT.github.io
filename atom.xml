@@ -10,13 +10,13 @@
   <rights>All rights reserved 2026, TalkingRain</rights>
   <subtitle>欢迎喵</subtitle>
   <title>TanYu's Neverland</title>
-  <updated>2026-08-25T10:11:31.871Z</updated>
+  <updated>2026-08-25T10:12:00.722Z</updated>
   <entry>
     <author>
       <name>TalkingRain</name>
     </author>
     <content>
-      <![CDATA[<p>Welcome</p><p>这是这个博客创建的第一个消息，也是这个博客诞生的时间</p><p>——2026/8/25</p><p><a href="https://talkingraintut.github.io/posts/4a17b156.html">https://talkingraintut.github.io/posts/4a17b156.html</a></p>]]>
+      <![CDATA[<p>Welcome</p><p>这是这个博客创建的第一个消息，也是这个博客诞生的时间</p><p>——2026/8/25</p>]]>
     </content>
     <id>https://talkingraintut.github.io/posts/4a17b156.html</id>
     <link href="https://talkingraintut.github.io/posts/4a17b156.html"/>
@@ -24,10 +24,9 @@
     <summary>
       <![CDATA[<p>Welcome</p>
 <p>这是这个博客创建的第一个消息，也是这个博客诞生的时间</p>
-<p>——2026/8/25</p>
-<p><a href="https://talkingraintut.github.io/posts/4a17b156.html">https:]]>
+<p>——2026/8/25</p>]]>
     </summary>
     <title>Hello World</title>
-    <updated>2026-08-25T10:11:31.871Z</updated>
+    <updated>2026-08-25T10:12:00.722Z</updated>
   </entry>
 </feed>
