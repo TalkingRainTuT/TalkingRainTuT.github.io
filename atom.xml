@@ -10,7 +10,27 @@
   <rights>All rights reserved 2026, TalkingRain</rights>
   <subtitle>欢迎喵</subtitle>
   <title>TanYu's Neverland</title>
-  <updated>2026-08-25T10:12:00.722Z</updated>
+  <updated>2026-08-25T11:34:12.493Z</updated>
+  <entry>
+    <author>
+      <name>TalkingRain</name>
+    </author>
+    <category term="#项目" scheme="https://talkingraintut.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    <category term="随便写写" scheme="https://talkingraintut.github.io/categories/%E9%A1%B9%E7%9B%AE/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    <content>
+      <![CDATA[<p><strong>一个关于DeepSeek Harness语音生成的项目</strong></p><p><a href="https://github.com/TalkingRainTuT/dsh-VoiceChat">项目原址</a></p><p>起因是用dsh时想试试把deepseek变成桌宠 <s>（旮旯给木）</s></p><p>然后想从最简单的语音聊天开始，发现社区没有满意的模型，就自己搓了一个简陋的，接了本地的语音模型</p><p>后面是让ai适配更多的api，然后随手发一下gh</p><p><s>并不打算主动维护</s></p><p>有空再接个STT吧</p>]]>
+    </content>
+    <id>https://talkingraintut.github.io/posts/efaadecf.html</id>
+    <link href="https://talkingraintut.github.io/posts/efaadecf.html"/>
+    <published>2026-08-25T11:26:14.000Z</published>
+    <summary>
+      <![CDATA[<p><strong>一个关于DeepSeek Harness语音生成的项目</strong></p>
+<p><a href="https://github.com/TalkingRainTuT/dsh-VoiceChat">项目原址</a></p>
+<p>起因是用dsh时想试试]]>
+    </summary>
+    <title>dsh-VoiceChat</title>
+    <updated>2026-08-25T11:34:12.493Z</updated>
+  </entry>
   <entry>
     <author>
       <name>TalkingRain</name>

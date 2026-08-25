@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>dsh-VoiceChat</title>
+      <link href="/posts/efaadecf.html"/>
+      <url>/posts/efaadecf.html</url>
+      
+        <content type="html"><![CDATA[<p><strong>一个关于DeepSeek Harness语音生成的项目</strong></p><p><a href="https://github.com/TalkingRainTuT/dsh-VoiceChat">项目原址</a></p><p>起因是用dsh时想试试把deepseek变成桌宠 <s>（旮旯给木）</s></p><p>然后想从最简单的语音聊天开始，发现社区没有满意的模型，就自己搓了一个简陋的，接了本地的语音模型</p><p>后面是让ai适配更多的api，然后随手发一下gh</p><p><s>并不打算主动维护</s></p><p>有空再接个STT吧</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> #项目 </category>
+          
+          <category> 随便写写 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/posts/4a17b156.html"/>
       <url>/posts/4a17b156.html</url>

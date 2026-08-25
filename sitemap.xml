@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://talkingraintut.github.io/gallery/index.html</loc>
+    <loc>https://talkingraintut.github.io/posts/efaadecf.html</loc>
     
     <lastmod>2026-08-25</lastmod>
     
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://talkingraintut.github.io/about/index.html</loc>
+    
+    <lastmod>2026-08-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://talkingraintut.github.io/gallery/index.html</loc>
     
     <lastmod>2026-08-25</lastmod>
     
@@ -47,5 +56,19 @@
 
   
 
+  
+  <url>
+    <loc>https://talkingraintut.github.io/categories/%E9%A1%B9%E7%9B%AE/</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://talkingraintut.github.io/categories/%E9%A1%B9%E7%9B%AE/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 </urlset>
