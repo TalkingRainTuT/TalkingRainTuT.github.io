@@ -10,28 +10,7 @@
   <rights>All rights reserved 2026, TalkingRain</rights>
   <subtitle>欢迎喵</subtitle>
   <title>TanYu's Neverland</title>
-  <updated>2026-08-25T10:25:54.100Z</updated>
-  <entry>
-    <author>
-      <name>TalkingRain</name>
-    </author>
-    <category term="演示" scheme="https://talkingraintut.github.io/categories/%E6%BC%94%E7%A4%BA/"/>
-    <category term="示例" scheme="https://talkingraintut.github.io/tags/%E7%A4%BA%E4%BE%8B/"/>
-    <content>
-      <![CDATA[<p>这是一篇展示 Nexmoe 瀑布流功能的示例文章。</p><h2 id="图片瀑布流">图片瀑布流</h2><p>使用 <code>&#123;% gallery %&#125;</code> 标签包裹图片即可，每张图片会以瀑布流（masonry）布局排列：</p><p><div class="gallery-pro" style="column-width:200px;"><div><img alt="天空" src="https://picsum.photos/seed/sky/400/600" data-caption="天空" data-fancybox="gallery" loading="lazy"></div><div><img alt="海洋" src="https://picsum.photos/seed/sea/600/400" data-caption="海洋" data-fancybox="gallery" loading="lazy"></div><div><img alt="森林" src="https://picsum.photos/seed/forest/300/500" data-caption="森林" data-fancybox="gallery" loading="lazy"></div><div><img alt="山川" src="https://picsum.photos/seed/mountain/500/700" data-caption="山川" data-fancybox="gallery" loading="lazy"></div><div><img alt="城市" src="https://picsum.photos/seed/city/350/450" data-caption="城市" data-fancybox="gallery" loading="lazy"></div><div><img alt="星空" src="https://picsum.photos/seed/star/450/350" data-caption="星空" data-fancybox="gallery" loading="lazy"></div><div><img alt="花朵" src="https://picsum.photos/seed/flower/400/400" data-caption="花朵" data-fancybox="gallery" loading="lazy"></div><div><img alt="湖泊" src="https://picsum.photos/seed/lake/550/300" data-caption="湖泊" data-fancybox="gallery" loading="lazy"></div>            </div></p><h2 id="自定义列宽">自定义列宽</h2><p>可以在标签中指定列宽（单位 px）：</p><p><div class="gallery-pro" style="column-width:250px;"><div><img alt="沙漠" src="https://picsum.photos/seed/desert/400/500" data-caption="沙漠" data-fancybox="gallery" loading="lazy"></div><div><img alt="冰川" src="https://picsum.photos/seed/ice/500/400" data-caption="冰川" data-fancybox="gallery" loading="lazy"></div><div><img alt="草原" src="https://picsum.photos/seed/grass/350/550" data-caption="草原" data-fancybox="gallery" loading="lazy"></div><div><img alt="火山" src="https://picsum.photos/seed/volcano/450/350" data-caption="火山" data-fancybox="gallery" loading="lazy"></div>            </div></p><h2 id="普通图片">普通图片</h2><p>不用标签的话，图片就是普通排列：</p><p><img onerror="imgOnError(this);" data-fancybox="gallery" src="https://picsum.photos/seed/normal/600/400" alt="普通图片" data-caption="普通图片" loading="lazy"></p>]]>
-    </content>
-    <id>https://talkingraintut.github.io/posts/bbbf239f.html</id>
-    <link href="https://talkingraintut.github.io/posts/bbbf239f.html"/>
-    <published>2026-08-25T10:00:00.000Z</published>
-    <summary>
-      <![CDATA[<p>这是一篇展示 Nexmoe 瀑布流功能的示例文章。</p>
-<h2 id="图片瀑布流">图片瀑布流</h2>
-<p>使用 <code>&#123;% gallery %&#125;</code> 标签包裹图片即可，每张图片会以瀑布流（masonry）布局排列：</p>
-<]]>
-    </summary>
-    <title>图片瀑布流演示</title>
-    <updated>2026-08-25T10:25:54.100Z</updated>
-  </entry>
+  <updated>2026-08-25T10:12:00.722Z</updated>
   <entry>
     <author>
       <name>TalkingRain</name>
