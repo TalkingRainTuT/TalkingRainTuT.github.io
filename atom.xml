@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <author>
-    <name>TalkingRainTuT</name>
+    <name>TalkingRain</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
   <id>https://talkingraintut.github.io/</id>
   <link href="https://talkingraintut.github.io/" rel="alternate"/>
   <link href="https://talkingraintut.github.io/atom.xml" rel="self"/>
-  <rights>All rights reserved 2026, TalkingRainTuT</rights>
+  <rights>All rights reserved 2026, TalkingRain</rights>
   <subtitle>记录学习与思考</subtitle>
   <title>My Tech Blog</title>
   <updated>2026-08-25T06:44:39.939Z</updated>
   <entry>
     <author>
-      <name>TalkingRainTuT</name>
+      <name>TalkingRain</name>
     </author>
     <content>
       <![CDATA[<p>Welcome</p><p><a href="https://talkingraintut.github.io/posts/4a17b156.html">https://talkingraintut.github.io/posts/4a17b156.html</a></p>]]>
