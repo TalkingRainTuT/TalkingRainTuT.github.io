@@ -11,14 +11,14 @@
         <content type="html"><![CDATA[<p><strong>一个关于DeepSeek Harness语音生成的项目</strong></p><p><a href="https://github.com/TalkingRainTuT/dsh-VoiceChat">项目原址</a></p><p>起因是用dsh时想试试把deepseek变成桌宠 <s>（旮旯给木）</s></p><p>然后想从最简单的语音聊天开始，发现社区没有满意的模型，就自己搓了一个简陋的，接了本地的语音模型</p><p>后面是让ai适配更多的api，然后随手发一下gh</p><p><s>并不打算主动维护</s></p><p>有空再接个STT吧</p>]]></content>
       
       
-      <categories>
-          
-          <category> 随便写写 </category>
-          
-          <category> 项目 </category>
-          
-      </categories>
       
+        <tags>
+            
+            <tag> 随便写写 </tag>
+            
+            <tag> 项目 </tag>
+            
+        </tags>
       
     </entry>
     
@@ -32,12 +32,12 @@
         <content type="html"><![CDATA[<p>Welcome</p><p>这是这个博客创建的第一个消息，也是这个博客诞生的时间</p><p>——2026/8/25</p>]]></content>
       
       
-      <categories>
-          
-          <category> 随便写写 </category>
-          
-      </categories>
       
+        <tags>
+            
+            <tag> 随便写写 </tag>
+            
+        </tags>
       
     </entry>
     

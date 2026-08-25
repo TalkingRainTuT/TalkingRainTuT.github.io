@@ -10,13 +10,13 @@
   <rights>All rights reserved 2026, TalkingRain</rights>
   <subtitle>欢迎喵</subtitle>
   <title>TanYu's Neverland</title>
-  <updated>2026-08-25T12:03:25.391Z</updated>
+  <updated>2026-08-25T12:23:51.983Z</updated>
   <entry>
     <author>
       <name>TalkingRain</name>
     </author>
-    <category term="随便写写" scheme="https://talkingraintut.github.io/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
-    <category term="项目" scheme="https://talkingraintut.github.io/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/%E9%A1%B9%E7%9B%AE/"/>
+    <category term="随便写写" scheme="https://talkingraintut.github.io/tags/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    <category term="项目" scheme="https://talkingraintut.github.io/tags/%E9%A1%B9%E7%9B%AE/"/>
     <content>
       <![CDATA[<p><strong>一个关于DeepSeek Harness语音生成的项目</strong></p><p><a href="https://github.com/TalkingRainTuT/dsh-VoiceChat">项目原址</a></p><p>起因是用dsh时想试试把deepseek变成桌宠 <s>（旮旯给木）</s></p><p>然后想从最简单的语音聊天开始，发现社区没有满意的模型，就自己搓了一个简陋的，接了本地的语音模型</p><p>后面是让ai适配更多的api，然后随手发一下gh</p><p><s>并不打算主动维护</s></p><p>有空再接个STT吧</p>]]>
     </content>
@@ -29,13 +29,13 @@
 <p>起因是用dsh时想试试]]>
     </summary>
     <title>dsh-VoiceChat</title>
-    <updated>2026-08-25T12:03:25.391Z</updated>
+    <updated>2026-08-25T12:23:51.983Z</updated>
   </entry>
   <entry>
     <author>
       <name>TalkingRain</name>
     </author>
-    <category term="随便写写" scheme="https://talkingraintut.github.io/categories/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
+    <category term="随便写写" scheme="https://talkingraintut.github.io/tags/%E9%9A%8F%E4%BE%BF%E5%86%99%E5%86%99/"/>
     <content>
       <![CDATA[<p>Welcome</p><p>这是这个博客创建的第一个消息，也是这个博客诞生的时间</p><p>——2026/8/25</p>]]>
     </content>
@@ -48,7 +48,7 @@
 <p>——2026/8/25</p>]]>
     </summary>
     <title>Hello World</title>
-    <updated>2026-08-25T11:50:56.101Z</updated>
+    <updated>2026-08-25T12:24:06.737Z</updated>
   </entry>
   <entry>
     <author>
