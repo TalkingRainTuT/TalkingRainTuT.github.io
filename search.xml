@@ -13,9 +13,9 @@
       
       <categories>
           
-          <category> #项目 </category>
-          
           <category> 随便写写 </category>
+          
+          <category> 项目 </category>
           
       </categories>
       
@@ -31,6 +31,12 @@
       
         <content type="html"><![CDATA[<p>Welcome</p><p>这是这个博客创建的第一个消息，也是这个博客诞生的时间</p><p>——2026/8/25</p>]]></content>
       
+      
+      <categories>
+          
+          <category> 随便写写 </category>
+          
+      </categories>
       
       
     </entry>
