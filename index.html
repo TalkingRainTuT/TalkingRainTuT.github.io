@@ -4,26 +4,39 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>TanYu's Neverland</title>
-<link rel="stylesheet" href="/custom.css">
+<link rel="stylesheet" href="/css/style.css">
 </head>
 <body class="splash-body">
-  <div class="splash-page">
-    <div class="splash-page-inner">
-      <h1 class="splash-page-title">TanYu's Neverland</h1>
-      <p class="splash-page-sub">欢迎喵</p>
-      <a class="splash-page-btn" href="/blog/">进入博客</a>
-      <p class="splash-page-hint">点击按钮进入</p>
+  <div class="amayo-splash">
+    <div class="amayo-rain rain-layer-1"></div>
+    <div class="amayo-rain rain-layer-2"></div>
+    <img class="amayo-splash-art" src="/images/Q-version-little-person.png" alt="">
+    <div class="amayo-splash-inner">
+      <h1 class="amayo-splash-title">TanYu's Neverland</h1>
+      <p class="amayo-splash-sub" id="amayo-splash-sub"></p>
+      <a class="amayo-splash-btn" href="/blog/" id="amayo-splash-enter">进入博客</a>
+      <p class="amayo-splash-hint">点击按钮进入 ＞＞＞</p>
     </div>
   </div>
 <script>
-  // 进入开屏页时先清除旧标记，确保只有点击按钮跳转时才触发小人欢迎
-  try { sessionStorage.removeItem('fromSplash'); } catch (e) {}
-  var btn = document.querySelector('.splash-page-btn');
-  if (btn) {
-    btn.addEventListener('click', function() {
-      try { sessionStorage.setItem('fromSplash', 'true'); } catch (e) {}
-    });
+(function(){
+  // 打字机副标题
+  var sub='欢迎喵～ 来到 TanYu 的梦幻岛';
+  var el=document.getElementById('amayo-splash-sub');
+  var i=0, deleting=false;
+  function type(){
+    if(!el) return;
+    if(!deleting){ el.textContent=sub.slice(0,++i); if(i>=sub.length){ deleting=true; setTimeout(type,1600); return; } }
+    else { el.textContent=sub.slice(0,--i); if(i<=0){ deleting=false; } }
+    setTimeout(type, deleting?55:110);
   }
+  type();
+
+  // 进入前记录 fromSplash，供 Q 版小人欢迎语使用
+  try { sessionStorage.removeItem('fromSplash'); } catch(e){}
+  var btn=document.getElementById('amayo-splash-enter');
+  if(btn) btn.addEventListener('click', function(){ try{ sessionStorage.setItem('fromSplash','true'); }catch(e){} });
+})();
 </script>
 </body>
 </html>

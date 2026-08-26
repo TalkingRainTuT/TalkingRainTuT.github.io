@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://talkingraintut.github.io/archive/index.html</loc>
+    
+    <lastmod>2026-08-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://talkingraintut.github.io/posts/a1b2c3d4.html</loc>
     
     <lastmod>2026-08-26</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://talkingraintut.github.io/posts/c9d0e1f2.html</loc>
-    
-    <lastmod>2026-08-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://talkingraintut.github.io/archive/index.html</loc>
     
     <lastmod>2026-08-26</lastmod>
     
