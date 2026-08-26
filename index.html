@@ -15,5 +15,15 @@
       <p class="splash-page-hint">点击按钮进入</p>
     </div>
   </div>
+<script>
+  // 进入开屏页时先清除旧标记，确保只有点击按钮跳转时才触发小人欢迎
+  try { sessionStorage.removeItem('fromSplash'); } catch (e) {}
+  var btn = document.querySelector('.splash-page-btn');
+  if (btn) {
+    btn.addEventListener('click', function() {
+      try { sessionStorage.setItem('fromSplash', 'true'); } catch (e) {}
+    });
+  }
+</script>
 </body>
 </html>
